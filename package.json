@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "main": "dist/router.js",
   "types": "dist/router.d.ts",
+  "license": "MIT",
   "author": {
     "name": "Jeroen Trines",
     "url": "https://github.com/JTRNS"
