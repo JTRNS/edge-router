@@ -1,5 +1,5 @@
 {
-  "name": "edge-router",
+  "name": "@jtrns/edge-router",
   "description": "HTTP Request router for edge runtimes built on top of the URL Pattern API.",
   "version": "0.1.0",
   "main": "dist/router.js",
@@ -9,6 +9,14 @@
     "name": "Jeroen Trines",
     "url": "https://github.com/JTRNS"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JTRNS/edge-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JTRNS/edge-router/issues"
+  },
+  "homepage": "https://github.com/JTRNS/edge-router",
   "devDependencies": {
     "@cloudflare/workers-types": "^3.18.0",
     "typescript": "^4.8.4"
