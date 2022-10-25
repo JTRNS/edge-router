@@ -1,13 +1,19 @@
 {
-  "name": "pattern-router",
-  "description": "URL Pattern API Router",
-  "version": "0.0.0",
+  "name": "edge-router",
+  "description": "HTTP Request router for edge runtimes built on top of the URL Pattern API.",
+  "version": "0.1.0",
+  "main": "dist/router.js",
+  "types": "dist/router.d.ts",
+  "author": {
+    "name": "Jeroen Trines",
+    "url": "https://github.com/JTRNS"
+  },
   "devDependencies": {
     "@cloudflare/workers-types": "^3.18.0",
     "typescript": "^4.8.4"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc -p ."
   },
-  "private": true
+  "private": false
 }
