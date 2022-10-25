@@ -1,7 +1,7 @@
 {
   "name": "@jtrns/edge-router",
   "description": "HTTP Request router for edge runtimes built on top of the URL Pattern API.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "router.ts",
   "publishConfig": {
     "main": "dist/router.js",
