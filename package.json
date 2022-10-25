@@ -1,0 +1,13 @@
+{
+  "name": "pattern-router",
+  "description": "URL Pattern API Router",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.18.0",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "private": true
+}
